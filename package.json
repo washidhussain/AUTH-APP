@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "axios": "^1.6.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "react": "^18.2.0",
+    "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+  }
+}
